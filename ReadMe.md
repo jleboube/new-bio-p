@@ -1,3 +1,4 @@
+```
 project-root/
 ├── docker-compose.yml
 ├── Dockerfile
@@ -17,7 +18,7 @@ project-root/
     │   └── auth.php
     └── css/
         └── style.css
-
+```
 Deployment Commands:
 
 # Clone or create project directory
